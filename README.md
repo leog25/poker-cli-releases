@@ -34,4 +34,9 @@ rm ~/.local/bin/poker
 rm -rf ~/.config/poker
 ```
 
+## Terms and privacy
+
+Playing means accepting the [terms of use](TERMS.md). The [privacy notice](PRIVACY.md)
+says what the game keeps about you and how to have your account deleted.
+
 This repository only hosts release binaries.
