@@ -1,7 +1,7 @@
 # poker
 
 No-Limit Texas Hold'em in your terminal. Play-money only: every new account
-starts with $1,000 in chips. https://pokercli.com
+starts with $1,000 in chips.
 
 ## Install
 
