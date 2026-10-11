@@ -11,6 +11,9 @@ What poker collects, why, and what you can ask us to do with it.
   your chip balance and its history, invites, and messages you send in table chat.
 - **Connection details:** your IP address and request times appear in server and
   sign-in logs, which are used to stop abuse.
+- **Website visits.** pokercli.com counts page views with Vercel Web Analytics. It
+  sets no cookies and doesn't identify you: visits become totals of pages viewed,
+  referrers, countries and device types.
 
 ## Who can see it
 
