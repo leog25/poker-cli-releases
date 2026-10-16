@@ -14,6 +14,9 @@ What poker collects, why, and what you can ask us to do with it.
 - **Website visits.** pokercli.com counts page views with Vercel Web Analytics. It
   sets no cookies and doesn't identify you: visits become totals of pages viewed,
   referrers, countries and device types.
+- **Update checks.** Each time it starts, the poker app (0.1.2 and newer) asks
+  GitHub whether a newer release is out. GitHub sees your IP address, as it does
+  for any download. Set `POKER_NO_UPDATE_CHECK=1` to turn this off.
 
 ## Who can see it
 
